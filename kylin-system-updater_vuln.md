@@ -31,4 +31,4 @@ os.system("ls -l /InstallSnap.txt")
 ```
 
 ### example
-![1.png](../imgs/1.png)
+![1.png](https://github.com/cn-lwj/vuldb/blob/master/imgs/1.png)
